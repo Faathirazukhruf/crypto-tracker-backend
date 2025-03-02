@@ -1,7 +1,5 @@
 # Crypto Price Tracker Backend
 
-![Backend Architecture](https://via.placeholder.com/800x400) <!-- Replace with a link to your backend architecture diagram -->
-
 ## About the Project
 
 This is the backend component of the **Crypto Price Tracker** project, created by **Faathirazukhruf**. The backend is built using **Express.js** and fetches real-time cryptocurrency price data from the **CoinGecko API**. It serves as the data provider for the frontend application.
@@ -95,6 +93,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Made with ❤️ by **Faathirazukhruf**.
+Made by **Faathirazukhruf**.
 
 
